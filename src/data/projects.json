@@ -1,26 +1,17 @@
 [
   {
-    "title": "Project A",
+    "title": "E-Plant Shopping",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is a project built to learn how to use react. It simulates a plant nursery. You can put different plants and check items in the cart.",
+    "skills": ["React", "Node"],
+    "demo": "https://fardowza.github.io/e-plantShopping/",
+    "source": "https://github.com/fardowza/e-plantShopping"
   },
   {
-    "title": "Project B",
+    "title": "Node.js with Express",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "This is a project made to learn how to create a simple Node.js + Express server that interacts with an external API.",
+    "skills": ["React", "Express", "Node", "API"],
+    "source": "https://github.com/fardowza/sample-node-express-fetch"
   }
 ]
